@@ -53,6 +53,20 @@ This is a good illustration of why Power Query's step-based, case-sensitive M fo
 - Data quality validation logic (custom calculated columns)
 - Debugging M-code errors using Applied Steps and error detail messages
 - Building refreshable, repeatable ETL pipelines in Excel
+  
+- ## Before & After
+
+**Raw data**
+
+
+![Raw dataset before cleaning](Screenshot%202026-09-25%20123839_1.png)
+
+
+
+**Cleaned data**
+
+
+![Cleaned dataset with validation column](Screenshot%202026-09-25%20124132_1.png)
 
 ## Author
 
